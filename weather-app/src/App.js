@@ -3,7 +3,7 @@
 import React from 'react'
 import search_icon from '../src/components/Assets/search.png'
 import WeatherApp from './components/Weather App/WeatherApp'
-import wind from '../src/components/Assets/wind.png'
+// import wind from '../src/components/Assets/wind.png'
 
 function App() { 
   return (
